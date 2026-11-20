@@ -1,0 +1,8 @@
+<resources>
+    <color name="background_dark">#080D15</color>
+    <color name="surface_dark">#172433</color>
+    <color name="primary_cyan">#56D9FF</color>
+    <color name="secondary_cyan">#24A9D6</color>
+    <color name="text_main">#E8F2FA</color>
+    <color name="text_secondary">#8FA6B8</color>
+</resources>
